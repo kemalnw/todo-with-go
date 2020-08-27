@@ -1,0 +1,10 @@
+{
+    "debug": true,
+    "database": {
+        "dsn": "mongodb://localhost:27017",
+        "name": "todos"
+    },
+    "server": {
+        "address": ":8000"
+    }
+}
